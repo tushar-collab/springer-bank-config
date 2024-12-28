@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans: 
-  message: "Welcome loans production of Loans"
+  message: "Welcome loans production profiles of Loans"
   contactDetails:
     email: "{cipher}bc61fa515ec048f8f20e4d8aba662e58cca124a454c55b77c1123006f092112488542a8ae75454017d86385f634fd73d"
     name: "Sachin"
