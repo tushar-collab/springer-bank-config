@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 cards: 
-  message: "Welcome  cards prod"
+  message: "Welcome  cards production of Cards"
   contactDetails:
-    email: "7Eo0f@example.com"
-    name: "Sachin"
+    email: "{cipher}bc61fa515ec048f8f20e4d8aba662e58cca124a454c55b77c1123006f092112488542a8ae75454017d86385f634fd73d"
+    name: "{cipher}8dfd5c5c17f1983d6b2bb4876a132075f3633a144dc7272677ef92360f1e47be"
   onCallSupport: 
     -(555) 555-1234
     -(555) 555-4321
